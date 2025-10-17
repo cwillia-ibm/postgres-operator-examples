@@ -13,7 +13,7 @@ spec:
     listKind: CrunchyBridgeClusterList
     plural: crunchybridgeclusters
     singular: crunchybridgecluster
-  scope: Cluster
+  scope: Namespaced
   versions:
     - name: v1beta1
       schema:
